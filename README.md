@@ -259,23 +259,19 @@ Every project with live demos, architecture write-ups and detailed case studies.
 <br/>
 
 <!-- =================== STATS =================== -->
-<!-- NOTE: github-readme-stats / trophy / activity-graph public instances are
-     frequently paused. Deploy your own on Vercel and replace the host below.
-     Find-and-replace: github-readme-stats.vercel.app -> your-stats.vercel.app -->
+<!-- Want the stats + top-languages + trophy cards back?
+     The public instances (github-readme-stats.vercel.app and
+     github-profile-trophy.vercel.app) are paused by their owners, so they
+     render as broken images. Fork anuraghazra/github-readme-stats and
+     ryo-ma/github-profile-trophy, deploy each to your own Vercel, then add:
+     https://YOUR-STATS.vercel.app/api?username=Arslan9272&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=C9D1D9
+     https://YOUR-STATS.vercel.app/api/top-langs/?username=Arslan9272&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9
+-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan9272&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=A855F7&currStreakLabel=06B6D4&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"/>
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arslan9272&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan9272&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arslan9272&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
